@@ -33,7 +33,7 @@
 		'~@' for not expressions
 		'#' for single variables
 		'#' and '@' can be any of the expression types above
-	For Example ~((AvB)&~~(~C->~D)) is a well formed formula
+	For Example ~((AvB)&~~(~C->~D)) is a well formed formula.
 
 # The Inference Rules:
 	-: {(AvB), ~A |- B} for v's
